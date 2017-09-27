@@ -1,0 +1,555 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jso",
+				"json_string"
+			],
+			[
+				"crew",
+				"crewTotal"
+			],
+			[
+				"my",
+				"mydata"
+			],
+			[
+				"aircraft",
+				"aircraft_type"
+			],
+			[
+				"ai",
+				"aircraft"
+			],
+			[
+				"num",
+				"number_of_aircraft"
+			],
+			[
+				"air",
+				"aircraft_type"
+			],
+			[
+				"return",
+				"return_matrixx"
+			],
+			[
+				"rt",
+				"return"
+			],
+			[
+				"ret",
+				"return_matrixx"
+			],
+			[
+				"tra",
+				"train_data"
+			],
+			[
+				"train",
+				"train_target"
+			],
+			[
+				"a",
+				"as"
+			],
+			[
+				"size",
+				"size_min"
+			],
+			[
+				"si",
+				"size_min"
+			],
+			[
+				"pyl",
+				"pyplot"
+			],
+			[
+				"fig",
+				"figure"
+			],
+			[
+				"in",
+				"initial_CL_TO"
+			],
+			[
+				"Fusle",
+				"fuselage_angle"
+			],
+			[
+				"sele",
+				"selectone"
+			],
+			[
+				"cl",
+				"CL_TO"
+			],
+			[
+				"llt",
+				"llt_full"
+			],
+			[
+				"ll",
+				"llt_full"
+			],
+			[
+				"FUS",
+				"fuselage_angle"
+			],
+			[
+				"llt_f",
+				"llt_full"
+			],
+			[
+				"fusela",
+				"fuselage_angle"
+			],
+			[
+				"fuse",
+				"fuselage_angle"
+			],
+			[
+				"CL",
+				"CL_TO"
+			],
+			[
+				"read",
+				"read_from_db"
+			],
+			[
+				"cr",
+				"cruise_altitude"
+			],
+			[
+				"alt",
+				"cruise_altitude"
+			],
+			[
+				"tw",
+				"alpha_twist"
+			],
+			[
+				"li",
+				"lifting_line_theory_subplots"
+			],
+			[
+				"fina",
+				"final_subplot"
+			],
+			[
+				"le",
+				"legend"
+			],
+			[
+				"s",
+				"show"
+			],
+			[
+				"fin",
+				"finalval"
+			],
+			[
+				"final",
+				"finalval"
+			],
+			[
+				"fi",
+				"finalyy"
+			],
+			[
+				"y",
+				"y_s"
+			],
+			[
+				"c",
+				"CL1"
+			],
+			[
+				"alpha",
+				"alpha_twist"
+			],
+			[
+				"lift",
+				"lifting_line_theory"
+			],
+			[
+				"al",
+				"alpha_twist"
+			],
+			[
+				"alp",
+				"alpha_0"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"i",
+				"i_w"
+			],
+			[
+				"di",
+				"divide"
+			],
+			[
+				"an",
+				"ans"
+			],
+			[
+				"RH",
+				"RHS_iter"
+			],
+			[
+				"R",
+				"RHS_iter"
+			],
+			[
+				"loa",
+				"loadFactor"
+			],
+			[
+				"man",
+				"maneuveringSpeed"
+			],
+			[
+				"neg",
+				"negmaneuveringSpeed"
+			],
+			[
+				"ma",
+				"maneuveringSpeed"
+			],
+			[
+				"max",
+				"maxSpeed"
+			],
+			[
+				"st",
+				"stallSpeed"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "engines/lifting_line_theory-take-off.py",
+			"settings":
+			{
+				"buffer_size": 3601,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/geoff/Desktop/FlyOx Concept/Python/__init__.sublime-project",
+		"/C/Users/geoff/Desktop/FlyOx Concept/Python/engines/lifting_line_theory-take-off.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/prerequisitesEngine.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/API/lifting_line_theory.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/lifting_line_theory.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/mainfile.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/junkfile.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/sizing.py",
+		"/C/Users/geoff/Desktop/FlyOx Concept/Python/engines/lifting_line_theory.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/Gudmundsson_Constraint.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/pandas/aircraft.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/pandas/aircrafttypeAI.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/MatLab files/lifting_line_theory_1.m",
+		"/C/Users/geoff/Documents/JUNK/redmi/.m",
+		"/C/Users/geoff/Desktop/FlyOx Concept/engines/mainfile.py",
+		"/C/Users/geoff/Desktop/FlyOx Concept/engines/sizing.py",
+		"/C/Users/geoff/Desktop/FlyOx Concept/engines/prerequisitesEngine.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/wingEngine.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/tail.ipynb",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/constraint.py",
+		"/C/Users/geoff/Desktop/FlyOx Concept/__init__.py",
+		"/C/Users/geoff/Desktop/FlyOx Concept/engines/defaults.py",
+		"/C/Users/geoff/Desktop/FlyOx Concept/engines/airfoilEngine.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/main.py",
+		"/C/Users/geoff/Desktop/FlyOx Concept/engines/wingEngine.py",
+		"/C/Users/geoff/Desktop/FlyOx Concept/engines/weights.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/pytest/OCR/Hello.py",
+		"/C/Users/geoff/Anaconda3/Lib/site-packages/pytesseract/pytesseract.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/ui/Ostrich.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/ML/iris.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/API/aircrafttypeAPI.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/ML/plot_iris_dataset.py",
+		"/C/Users/geoff/.jupyter/jupyter_notebook_config.py",
+		"/C/Users/geoff/Anaconda3/Scripts/launch_instance-script.py",
+		"/C/Users/geoff/Anaconda3/Scripts/jupyter-script.py",
+		"/C/Users/geoff/Anaconda3/Scripts/jupyter-run-script.py",
+		"/C/Users/geoff/Anaconda3/Scripts/ipython-script.py",
+		"/C/Users/geoff/Anaconda3/Scripts/jupyter-console-script.py",
+		"/C/Users/geoff/Anaconda3/Scripts/jupyter-notebook-script.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/ML/sk.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/sklearn MNIST.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/Gudmundsson Constraint.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/API/airfoilAPI.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/API/wingAPI.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/airfoilEngine.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/aerodynamics.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/performanceIntroductionEngine.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/performance introduction Engine.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/sklearn junkbook.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/performanceIntroduction.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/lifting_line_theory-take-off.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/API/aircrafttypeAPI",
+		"/C/Users/geoff/Anaconda3/Lib/site-packages/sklearn/datasets/base.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/pandas/test.py",
+		"/C/Users/geoff/Anaconda3/Lib/site-packages/sklearn/datasets/__init__.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/pandas/airbus1.py",
+		"/C/Users/geoff/Desktop/New folder (2)/WpfApplication1/WpfApplication1/WpfApplication1.py",
+		"/C/Users/geoff/Downloads/Compressed/SUAVE-develop/SUAVE-develop/trunk/SUAVE/Core/Data.py",
+		"/C/Users/geoff/Downloads/Compressed/SUAVE-develop/SUAVE-develop/trunk/SUAVE/Sizing/__init__.py",
+		"/C/Users/geoff/Downloads/Compressed/SUAVE-develop/SUAVE-develop/trunk/SUAVE/Sizing/write_sizing_outputs.py",
+		"/C/Users/geoff/Downloads/Compressed/SUAVE-develop/SUAVE-develop/trunk/SUAVE/Sizing/Sizing_Loop.py",
+		"/C/Users/geoff/Downloads/Compressed/SUAVE-develop/SUAVE-develop/trunk/SUAVE/Vehicle.py",
+		"/C/Users/geoff/Downloads/Compressed/SUAVE-develop/SUAVE-develop/trunk/setup.py",
+		"/C/Users/geoff/Downloads/Compressed/SUAVE-develop/SUAVE-develop/templates/simple_method.py",
+		"/C/Users/geoff/AppData/Local/Temp/Rar$DIa0.853/code_example.py",
+		"/C/Users/geoff/Google Drive/Meself/Websites/geoffreynyaga/Articles/lifting line theory basic.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/airfoil.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/lifting line theory.ipynb",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/llt take-off.ipynb",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/wing.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/defaults.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/tail.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/ui/dbtest.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/ui/testui.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/__init__.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/pd2/aircraft.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/pd2/airbus1.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/ML/create_sentiment_featuresets.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/ML/dogs.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/ML/pipeline.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/ML/Tensorflow1.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/ML/TensorflowMnist.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/API/TESTING_MAINAPI.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/weissinger/inputs.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/test.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/TESTING_MAINENGINE.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/weissinger/wing.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/weissinger/README.md",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/API/lifting_line_theory",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/API/db_API.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/Main Junkfile.py",
+		"/C/Users/geoff/Downloads/Compressed/Wingware_Wing_IDE_Professional_6.0.4-1_Multilingual_Win_Downloadly.ir/Wingware Wing IDE Professional 6.0.4-1 Multilingual Win/Crack/Keygen.py",
+		"/C/Users/geoff/Downloads/Compressed/Wingware_Wing_IDE_Professional_6.0.4-1_Multilingual_Win_Downloadly.ir/Wingware Wing IDE Professional 6.0.4-1 Multilingual Win/Crack/Keygen.pyc",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/lifting line theory.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/MatLab files/lifting_line_theory_2.m",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/llt.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/llt.ipynb",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/llt matlab.txt",
+		"/C/Users/geoff/AppData/Local/Temp/lifting+line.py.htm",
+		"/C/Users/geoff/Anaconda3/Scripts/ipython3-script.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/weissinger/run_weissinger.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/weissinger/weissinger.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/performance introduction.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/API/perfIntroAPI.py",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/MatLab files/projectfin.m",
+		"/C/Users/geoff/Google Drive/Kenya One Cranfield Report/Python/Kenya-One-Project/engines/TESTING_MAIN.py",
+		"/C/Users/geoff/Anaconda3/Lib/site-packages/pip/vcs/git.py",
+		"/C/Users/geoff/Dropbox/Python Public/Public Folder/Python Hacks/f2py_python/py_f2py.py",
+		"/C/Users/geoff/Dropbox/Python Public/Public Folder/Python Hacks/f2py_python/py_f2py.sh",
+		"/C/Users/geoff/Dropbox/Python Public/Public Folder/Python Hacks/f2py_python/matmul1.f90"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tap",
+			"cbhp",
+			"ct",
+			"yeeh",
+			"finalBHP",
+			"Final",
+			"impo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "engines/lifting_line_theory-take-off.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 388.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
